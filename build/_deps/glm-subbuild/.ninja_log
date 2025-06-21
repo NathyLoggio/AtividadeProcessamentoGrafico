@@ -1,0 +1,21 @@
+# ninja log v6
+2	56	7721782052660863	glm-populate-prefix/src/glm-populate-stamp/glm-populate-mkdir	8301e91a05ddf38b
+2	56	7721782052660863	C:/Users/LucasNunes/AtividadeProcessamentoGrafico/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-mkdir	8301e91a05ddf38b
+56	28330	7721782335392448	glm-populate-prefix/src/glm-populate-stamp/glm-populate-download	be242f8744b07c71
+56	28330	7721782335392448	C:/Users/LucasNunes/AtividadeProcessamentoGrafico/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-download	be242f8744b07c71
+28330	28578	7721782335452296	glm-populate-prefix/src/glm-populate-stamp/glm-populate-update	bcfdd51c6e415395
+28330	28578	7721782335452296	C:/Users/LucasNunes/AtividadeProcessamentoGrafico/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-update	bcfdd51c6e415395
+28580	28642	7721782338514119	glm-populate-prefix/src/glm-populate-stamp/glm-populate-patch	50520f0f062887f7
+28580	28642	7721782338514119	C:/Users/LucasNunes/AtividadeProcessamentoGrafico/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-patch	50520f0f062887f7
+28642	28694	7721782339042695	glm-populate-prefix/src/glm-populate-stamp/glm-populate-configure	723b3403cbe9c4e4
+28642	28694	7721782339042695	C:/Users/LucasNunes/AtividadeProcessamentoGrafico/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-configure	723b3403cbe9c4e4
+28694	28746	7721782339561293	glm-populate-prefix/src/glm-populate-stamp/glm-populate-build	ffb0dcdc004b4e13
+28694	28746	7721782339561293	C:/Users/LucasNunes/AtividadeProcessamentoGrafico/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-build	ffb0dcdc004b4e13
+28746	28798	7721782340079916	glm-populate-prefix/src/glm-populate-stamp/glm-populate-install	b9435d3d65c2b8c2
+28746	28798	7721782340079916	C:/Users/LucasNunes/AtividadeProcessamentoGrafico/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-install	b9435d3d65c2b8c2
+28798	28852	7721782340618465	glm-populate-prefix/src/glm-populate-stamp/glm-populate-test	f86cd2328f232ba7
+28798	28852	7721782340618465	C:/Users/LucasNunes/AtividadeProcessamentoGrafico/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-test	f86cd2328f232ba7
+28853	28927	7721782341366475	CMakeFiles/glm-populate-complete	9af3d0fe586c729c
+28853	28927	7721782341366475	glm-populate-prefix/src/glm-populate-stamp/glm-populate-done	9af3d0fe586c729c
+28853	28927	7721782341366475	C:/Users/LucasNunes/AtividadeProcessamentoGrafico/build/_deps/glm-subbuild/CMakeFiles/glm-populate-complete	9af3d0fe586c729c
+28853	28927	7721782341366475	C:/Users/LucasNunes/AtividadeProcessamentoGrafico/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-done	9af3d0fe586c729c

@@ -6,17 +6,17 @@
 Sprite::Sprite(GLuint VAO, GLuint texture, GLuint shader, glm::vec3 position, glm::vec3 scale, float rotation,
                int framesX, int framesY, float fps)
     : VAO(VAO), texture(texture), shader(shader), position(position), scale(scale), rotation(rotation),
-      framesX(framesX), framesY(framesY), currentFrame(0), currentRow(0), frameDuration(1.0f / fps), animTime(0.0)
+      framesX(framesX), framesY(framesY), currentFrame(0), currentRow(0), animTime(0.0f), frameDuration(1.0f / fps)
 {}
 
 void Sprite::update(float deltaTime, int direction)
 {
-    currentRow = direction; // 0=baixo, 1=esquerda, 2=direita, 3=cima
-    double timeNow = glfwGetTime();
-    if (timeNow - animTime >= frameDuration)
+    currentRow = direction;
+    animTime += deltaTime;
+    if (animTime >= frameDuration)
     {
+        animTime = 0.0f;
         currentFrame = (currentFrame + 1) % framesX;
-        animTime = timeNow;
     }
 }
 
@@ -46,6 +46,7 @@ void Sprite::draw(const glm::mat4& projection)
     glm::mat4 model = glm::mat4(1.0f);
     model = glm::translate(model, position);
     model = glm::scale(model, scale);
+    model = glm::rotate(model, rotation, glm::vec3(0, 0, 1));
 
     glUniformMatrix4fv(glGetUniformLocation(shader, "model"), 1, GL_FALSE, glm::value_ptr(model));
     glUniformMatrix4fv(glGetUniformLocation(shader, "projection"), 1, GL_FALSE, glm::value_ptr(projection));

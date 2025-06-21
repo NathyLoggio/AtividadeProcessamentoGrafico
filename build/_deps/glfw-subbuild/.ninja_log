@@ -1,0 +1,21 @@
+# ninja log v6
+2	58	7721781968208696	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-mkdir	d297e462c5b83949
+2	58	7721781968208696	C:/Users/LucasNunes/AtividadeProcessamentoGrafico/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-mkdir	d297e462c5b83949
+59	5038	7721782018003543	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-download	acc2d1b0e2da66d7
+59	5038	7721782018003543	C:/Users/LucasNunes/AtividadeProcessamentoGrafico/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-download	acc2d1b0e2da66d7
+5038	5289	7721782018063386	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-update	aa9f4e1ddb4faf21
+5038	5289	7721782018063386	C:/Users/LucasNunes/AtividadeProcessamentoGrafico/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-update	aa9f4e1ddb4faf21
+5289	5355	7721782021165136	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-patch	b72461659d1dc220
+5289	5355	7721782021165136	C:/Users/LucasNunes/AtividadeProcessamentoGrafico/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-patch	b72461659d1dc220
+5355	5432	7721782021952993	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-configure	1a7e897586196b3b
+5355	5432	7721782021952993	C:/Users/LucasNunes/AtividadeProcessamentoGrafico/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-configure	1a7e897586196b3b
+5433	5494	7721782022561370	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-build	145e138bac58ef64
+5433	5494	7721782022561370	C:/Users/LucasNunes/AtividadeProcessamentoGrafico/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-build	145e138bac58ef64
+5494	5550	7721782023119861	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-install	f7d1ca7a9de57cfb
+5494	5550	7721782023119861	C:/Users/LucasNunes/AtividadeProcessamentoGrafico/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-install	f7d1ca7a9de57cfb
+5550	5610	7721782023718282	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-test	12af1fad6d5159fb
+5550	5610	7721782023718282	C:/Users/LucasNunes/AtividadeProcessamentoGrafico/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-test	12af1fad6d5159fb
+5610	5695	7721782024575969	CMakeFiles/glfw-populate-complete	fa96936d53699f08
+5610	5695	7721782024575969	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-done	fa96936d53699f08
+5610	5695	7721782024575969	C:/Users/LucasNunes/AtividadeProcessamentoGrafico/build/_deps/glfw-subbuild/CMakeFiles/glfw-populate-complete	fa96936d53699f08
+5610	5695	7721782024575969	C:/Users/LucasNunes/AtividadeProcessamentoGrafico/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-done	fa96936d53699f08
